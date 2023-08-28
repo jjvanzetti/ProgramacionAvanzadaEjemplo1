@@ -1,0 +1,11 @@
+dist/
+nbproject/
+build/
+build.*
+hibernate.properties
+
+/dist/
+/nbproject/
+/build/
+/build.*
+/hibernate.properties
